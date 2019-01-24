@@ -1,5 +1,4 @@
-# CS419FianlPresent
-UIUC CS419 Final Presentation
+# Productive Computer Graphics Demo
 
 ## Photon Mapping
 ![alt text](https://raw.githubusercontent.com/wu6u3/CS419FianlPresent/master/output_caustic.jpg)
